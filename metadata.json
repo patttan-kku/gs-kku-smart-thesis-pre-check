@@ -1,0 +1,8 @@
+{
+  "name": "GS KKU Thesis AI Checker",
+  "description": "ระบบตรวจสอบวิทยานิพนธ์ ระดับบัณฑิตศึกษา มหาวิทยาลัยขอนแก่น ด้วย AI เชื่อมโยงฐานข้อมูล GSMIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
